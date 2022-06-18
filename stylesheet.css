@@ -1,0 +1,43 @@
+h1 {
+    text-align: center;
+    color:blue
+}
+
+img {
+    box-shadow: 10px 10px 5px black;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+p {
+    text-align: center;
+    font-size: 15px;
+}
+
+ul {
+    text-align: center;
+    border-style: solid;
+    border-width: 2px;
+    list-style-position: inside;
+}
+
+li {
+    align-items: center;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+.blueText{
+    color: blue;
+}
+    
+.pinkText{
+    color:deeppink
+}
+
+.violetText{
+    color:blueviolet
+}
